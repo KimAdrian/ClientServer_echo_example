@@ -208,14 +208,24 @@ Output
 |start Server|
 |---|
 |![](images/startingServer.png)|
-|start Client|
+
+|start Client. Client connects to client already running|
+|---|
 |![](images/startingClient.png)|
+
 |Server connected to client|
+|---|
 |![](images/serverClientConnected.png)|
+
 |Entering text <code>Echo Test 1</code> in client side|
+|---|
 |![](images/inputTextClientSide.png)|
+
 |Server side response|
+|---|
 |![](images/serverEchoText.png)|
+
 |<code>quit</code> terminates the program|
+|---|
 |![](images/quitTerminateClient.png)![](images/quitTerminateServer.png)|
 
