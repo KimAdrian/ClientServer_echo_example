@@ -202,3 +202,20 @@ public class Client {
 ```
 These programs can be implemented as two separate projects or within a single project. 
 Either way, start the server first and then start the client. 
+
+Output
+
+|start Server|
+|---|
+|![](images/startingServer.png)|
+|start Client|
+|![](images/startingClient.png)|
+|Server connected to client|
+|![](images/serverClientConnected.png)|
+|Entering text <code>Echo Test 1</code> in client side|
+|![](images/inputTextClientSide.png)|
+|Server side response|
+|![](images/serverEchoText.png)|
+|<code>quit</code> terminates the program|
+|![](images/quitTerminateClient.png)![](images/quitTerminateServer.png)|
+
