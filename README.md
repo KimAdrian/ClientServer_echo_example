@@ -1,6 +1,7 @@
 ## ClientServer_echo_example
 Simple client-server echo program <br/>
-Source: https://subscription.packtpub.com/book/application_development/9781785885471/1/ch01lvl1sec11/creating-a-simple-echo-server
+Source: https://subscription.packtpub.com/book/application_development/9781785885471/1/ch01lvl1sec11/creating-a-simple-echo-server <br/>
+Book: Learning Network Programming with Java By Richard M Reese
 ### Creating a simple echo server
 We will start with the definition of the <code>Server</code> class as shown next. In the <code>main</code> method, an initial server message will be displayed:
 
