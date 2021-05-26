@@ -210,7 +210,7 @@ Output
 |---|
 |![](images/startingServer.png)|
 
-|start Client. Client connects to client already running|
+|start Client. Client connects to server already running|
 |---|
 |![](images/startingClient.png)|
 
